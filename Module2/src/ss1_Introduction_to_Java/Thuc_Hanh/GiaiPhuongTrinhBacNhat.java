@@ -5,7 +5,7 @@ import java.util.Scanner;
 class GiaiPhuongTrinhBacNhat {
 
     public static void main(String[] args) {
-        System.out.println("Linear Equation Resolver");
+        System.out.println("Giai phuong trinh bac nhat");
         System.out.println("Given a equation as 'a * x + b = c', please enter constants:");
         Scanner scanner = new Scanner(System.in);
         System.out.print("a: ");
