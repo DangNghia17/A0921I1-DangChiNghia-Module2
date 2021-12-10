@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Bai_Tap/HienThiLoiChao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Bai_Tap/UngDungChuyenDoiTienTe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Bai_Tap/UngDungDocSoThanhChu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/GiaiPhuongTrinhBacNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/HienThiThoiGianHeThong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/KhaiBaoVaSuDungBien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/KiemTraNamNhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/SuDungToanTu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/TinhChiSoCanNangCoThe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss1_Introduction_to_Java/Thuc_Hanh/TinhSoNgayTrongThang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Bai_Tap/HienThi20SoNguyenToDauTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Bai_Tap/HienThiCacLoaiHinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Bai_Tap/HienThiCacSoNguyenToNhoHon100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Thuc_Hanh/ThietKeMenuChoUngDung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Thuc_Hanh/TimUocSoChungLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Thuc_Hanh/UngDungTinhTienLaiChoVay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/ChuongTrinhChuyenDoiNhietDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/DaoNguocCacPhanTuCuaMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriLonNhatTrongMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriNhoNhatTrongMangSuDungPhuongThuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriTrongMang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/HienThiLoiChao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/HienThiLoiChao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungChuyenDoiTienTe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungChuyenDoiTienTe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungDocSoThanhChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungDocSoThanhChu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/GiaiPhuongTrinhBacNhat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/GiaiPhuongTrinhBacNhat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/KiemTraNamNhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/KiemTraNamNhuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhChiSoCanNangCoThe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhChiSoCanNangCoThe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhSoNgayTrongThang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhSoNgayTrongThang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Thuc_Hanh/testUpGit_newSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_Vong_lap_trong_Java/Thuc_Hanh/KiemTraSoNguyenTo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +42,9 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="223ouJChEQlF9KfdFqUD7ail5HH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,14 +63,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.SuDungToanTu">
-    <configuration name="HienThiThoiGianHeThong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_Introduction_to_Java.Thuc_Hanh.HienThiThoiGianHeThong" />
+  <component name="RunManager" selected="Application.TimGiaTriNhoNhatTrongMangSuDungPhuongThuc">
+    <configuration name="DaoNguocCacPhanTuCuaMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.DaoNguocCacPhanTuCuaMang" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_Introduction_to_Java.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KhaiBaoVaSuDungBien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_Introduction_to_Java.Thuc_Hanh.KhaiBaoVaSuDungBien" />
+    <configuration name="HienThiCacSoNguyenToNhoHon100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_Vong_lap_trong_Java.Bai_Tap.HienThiCacSoNguyenToNhoHon100" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_Introduction_to_Java.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss2_Vong_lap_trong_Java.Bai_Tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +92,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuDungToanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_Introduction_to_Java.Thuc_Hanh.SuDungToanTu" />
+    <configuration name="TimGiaTriLonNhatTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.TimGiaTriLonNhatTrongMang" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_Introduction_to_Java.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimGiaTriNhoNhatTrongMangSuDungPhuongThuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.TimGiaTriNhoNhatTrongMangSuDungPhuongThuc" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimGiaTriTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.TimGiaTriTrongMang" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,9 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SuDungToanTu" />
-        <item itemvalue="Application.KhaiBaoVaSuDungBien" />
-        <item itemvalue="Application.HienThiThoiGianHeThong" />
+        <item itemvalue="Application.TimGiaTriNhoNhatTrongMangSuDungPhuongThuc" />
+        <item itemvalue="Application.TimGiaTriLonNhatTrongMang" />
+        <item itemvalue="Application.TimGiaTriTrongMang" />
+        <item itemvalue="Application.DaoNguocCacPhanTuCuaMang" />
+        <item itemvalue="Application.HienThiCacSoNguyenToNhoHon100" />
       </list>
     </recent_temporary>
   </component>
@@ -113,12 +151,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639075852818</updated>
-      <workItem from="1639075856934" duration="1654000" />
+      <workItem from="1639075856934" duration="5630000" />
+      <workItem from="1639119197236" duration="8853000" />
     </task>
+    <task id="LOCAL-00001" summary="test git">
+      <created>1639077623584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639077623584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="94" key="#Project_Structure" timestamp="1639076053898">
@@ -133,25 +184,37 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1639077622967" />
-    <state width="1342" height="180" key="GridCell.Tab.0.bottom" timestamp="1639077631307">
+    <state width="740" height="160" key="GridCell.Tab.0.bottom" timestamp="1639128987290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639077631307" />
-    <state width="1342" height="180" key="GridCell.Tab.0.center" timestamp="1639077631307">
+    <state width="740" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639128987290" />
+    <state width="740" height="160" key="GridCell.Tab.0.center" timestamp="1639128987289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="180" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639077631307" />
-    <state width="1342" height="180" key="GridCell.Tab.0.left" timestamp="1639077631307">
+    <state width="740" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639128987289" />
+    <state width="740" height="160" key="GridCell.Tab.0.left" timestamp="1639128987289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="180" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639077631307" />
-    <state width="1342" height="180" key="GridCell.Tab.0.right" timestamp="1639077631307">
+    <state width="740" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639128987289" />
+    <state width="740" height="160" key="GridCell.Tab.0.right" timestamp="1639128987290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="180" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639077631307" />
+    <state width="740" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639128987290" />
+    <state x="269" y="87" key="SettingsEditor" timestamp="1639122987977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1639122987977" />
+    <state x="457" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1639120038945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639120038945" />
     <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639077563472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1639077563472" />
+    <state x="423" y="145" key="search.everywhere.popup" timestamp="1639123008246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1639123008246" />
   </component>
 </project>
