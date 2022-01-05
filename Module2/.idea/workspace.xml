@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/TestStaticProperty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopFan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopFan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/XayDungLopQuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/XayDungLopQuadraticEquation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +74,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.XayDungLopQuadraticEquation.Main" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.FanExcercise.Main" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.XayDungLopQuadraticEquation.*" />
+          <option name="PATTERN" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.FanExcercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.StopWatch.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modifier_static_method_static_property.Bai_Tap.XayDungLopChiGhiTrongJava.Test" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_Lop_va_doi_tuong_trong_Java.Bai_Tap.StopWatch.*" />
+          <option name="PATTERN" value="ss5_Access_modifier_static_method_static_property.Bai_Tap.XayDungLopChiGhiTrongJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss4_Lop_va_doi_tuong_trong_Java.Thuc_Hanh.LopHinhChuNhat.Main" />
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modifier_static_method_static_property.Bai_Tap.AccessModifier.TestCircle" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss4_Lop_va_doi_tuong_trong_Java.Thuc_Hanh.LopHinhChuNhat.*" />
+          <option name="PATTERN" value="ss5_Access_modifier_static_method_static_property.Bai_Tap.AccessModifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UngDungSoLuongSinhVienThiDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.UngDungSoLuongSinhVienThiDo" />
+    <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modifier_static_method_static_property.Thuc_Hanh.StaticMethod.TestStaticMethod" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss5_Access_modifier_static_method_static_property.Thuc_Hanh.StaticMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Mang_va_phuong_thuc_trong_Java.Bai_Tap.test" />
+    <configuration name="TestStaticProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_Access_modifier_static_method_static_property.Thuc_Hanh.StaticProperty.TestStaticProperty" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Mang_va_phuong_thuc_trong_Java.Bai_Tap.*" />
+          <option name="PATTERN" value="ss5_Access_modifier_static_method_static_property.Thuc_Hanh.StaticProperty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.UngDungSoLuongSinhVienThiDo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.TestStaticProperty" />
+        <item itemvalue="Application.TestStaticMethod" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +165,9 @@
       <workItem from="1639141009711" duration="2974000" />
       <workItem from="1639369125395" duration="16875000" />
       <workItem from="1639393664596" duration="1487000" />
+      <workItem from="1639568476632" duration="4790000" />
+      <workItem from="1639741422857" duration="4419000" />
+      <workItem from="1641367742832" duration="5095000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -178,38 +195,44 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639076688906" />
-    <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1639389528837">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1641373214653">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639389528837" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1641373214653" />
+    <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
     <state x="393" y="16" key="CommitChangelistDialog2" timestamp="1639077622967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1639077622967" />
-    <state width="1319" height="211" key="GridCell.Tab.0.bottom" timestamp="1639390541607">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1395" height="191" key="GridCell.Tab.0.bottom" timestamp="1641373388116">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1319" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639390541607" />
-    <state width="1319" height="211" key="GridCell.Tab.0.center" timestamp="1639390541607">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1395" height="191" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641373388116" />
+    <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
+    <state width="1395" height="191" key="GridCell.Tab.0.center" timestamp="1641373388116">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1319" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639390541607" />
-    <state width="1319" height="211" key="GridCell.Tab.0.left" timestamp="1639390541607">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1395" height="191" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641373388116" />
+    <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
+    <state width="1395" height="191" key="GridCell.Tab.0.left" timestamp="1641373388116">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1319" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639390541607" />
-    <state width="1319" height="211" key="GridCell.Tab.0.right" timestamp="1639390541607">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1395" height="191" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641373388116" />
+    <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
+    <state width="1395" height="191" key="GridCell.Tab.0.right" timestamp="1641373388116">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1319" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639390541607" />
+    <state width="1395" height="191" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641373388116" />
+    <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
     <state x="269" y="87" key="SettingsEditor" timestamp="1639122987977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="269" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1639122987977" />
-    <state x="457" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1639393663729">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="457" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1641367933969">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="457" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639393663729" />
+    <state x="457" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1641367933969" />
+    <state x="457" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639741544091" />
     <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639077563472">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

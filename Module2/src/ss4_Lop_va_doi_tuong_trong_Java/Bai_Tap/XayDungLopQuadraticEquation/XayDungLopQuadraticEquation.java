@@ -9,9 +9,9 @@ public class XayDungLopQuadraticEquation {
     }
 
     public XayDungLopQuadraticEquation(double a, double b, double c){
-        this.a = a;
-        this.b = b;
-        this.c = c;
+        this.a = a ;
+        this.b = b ;
+        this.c = c ;
     }
     public double getA() {
         return a;
