@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/TestStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/TestStaticProperty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopFan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopFan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/XayDungLopQuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/XayDungLopQuadraticEquation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +153,7 @@
       <workItem from="1639393664596" duration="1487000" />
       <workItem from="1639568476632" duration="4790000" />
       <workItem from="1639741422857" duration="4419000" />
-      <workItem from="1641367742832" duration="5095000" />
+      <workItem from="1641367742832" duration="7302000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
