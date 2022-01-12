@@ -1,8 +1,8 @@
 package ss6_ke_thua.bai_tap.Point2DAndPoint3D;
 
 public class Point2D {
-    private float x = 0.0f ;
-    private float y = 0.0f ;
+    private float x = 0.0f;
+    private float y = 0.0f;
 
     public Point2D() {
     }
@@ -26,5 +26,25 @@ public class Point2D {
 
     public void setY(float y) {
         this.y = y;
+    }
+
+    public void setXY(float x, float y) {
+        this.x = x;
+        this.y = y;
+    }
+
+    public float[] getXY() {
+        float[] array = new float[2];
+        array[0] = this.x;
+        array[1] = this.y;
+        return array;
+    }
+
+    @Override
+    public String toString() {
+        return "Point2D{" +
+                "x = " + getX() +
+                ", y = " + getY() +
+                '}';
     }
 }
