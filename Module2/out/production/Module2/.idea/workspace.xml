@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/PointAndMoveablePoint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Triagle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/META-INF/Module2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/Point2DAndPoint3D/nothing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/PointAndMoveablePoint/unfinished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/PointAndMoveablePoint/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +83,46 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.Point2DAndPoint3D.Main" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.Point2DAndPoint3D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.PointAndMoveablePoint.Main" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.PointAndMoveablePoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.DesignAndImplementTriangle.Main" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.bai_tap.DesignAndImplementTriangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.CircleAndCylinder.Main" />
       <module name="Module2" />
@@ -115,52 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.XayDungLopChiGhiTrongJava.Test" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.XayDungLopChiGhiTrongJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.AccessModifier.TestCircle" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.AccessModifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStaticProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.thuc_hanh.StaticProperty.TestStaticProperty" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.thuc_hanh.StaticProperty.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestCircle" />
-        <item itemvalue="Application.TestStaticProperty" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +185,8 @@
       <workItem from="1641816066953" duration="808000" />
       <workItem from="1641861387625" duration="619000" />
       <workItem from="1641905323725" duration="776000" />
-      <workItem from="1641972245011" duration="3519000" />
+      <workItem from="1641972245011" duration="6050000" />
+      <workItem from="1642158316017" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -215,16 +211,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test git" />
     <option name="LAST_COMMIT_MESSAGE" value="test git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="676" y="273" key="#Notifications" timestamp="1641905425721">
+    <state x="676" y="273" key="#Notifications" timestamp="1642161869549">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="676" y="273" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1641905425721" />
+    <state x="676" y="273" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1642161869549" />
     <state x="361" y="94" key="#Project_Structure" timestamp="1639076053898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -233,10 +230,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639076688906" />
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1641983048250">
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1642166333584">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1641983048250" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1642166333584" />
     <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1641382062176">
       <screen x="0" y="0" width="1536" height="816" />
@@ -250,25 +247,25 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641864793864" />
-    <state width="1257" height="154" key="GridCell.Tab.0.bottom" timestamp="1641832565528">
+    <state width="1258" height="195" key="GridCell.Tab.0.bottom" timestamp="1641989015550">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1257" height="154" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641832565528" />
+    <state width="1258" height="195" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
     <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1257" height="154" key="GridCell.Tab.0.center" timestamp="1641832565528">
+    <state width="1258" height="195" key="GridCell.Tab.0.center" timestamp="1641989015550">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1257" height="154" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641832565528" />
+    <state width="1258" height="195" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
     <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1257" height="154" key="GridCell.Tab.0.left" timestamp="1641832565528">
+    <state width="1258" height="195" key="GridCell.Tab.0.left" timestamp="1641989015550">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1257" height="154" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641832565528" />
+    <state width="1258" height="195" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
     <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
-    <state width="1257" height="154" key="GridCell.Tab.0.right" timestamp="1641832565528">
+    <state width="1258" height="195" key="GridCell.Tab.0.right" timestamp="1641989015550">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1257" height="154" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641832565528" />
+    <state width="1258" height="195" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
     <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
     <state x="269" y="86" key="SettingsEditor" timestamp="1641986191780">
       <screen x="0" y="0" width="1536" height="816" />
