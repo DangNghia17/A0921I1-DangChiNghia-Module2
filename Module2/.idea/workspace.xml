@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Triagle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/nothing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Hoc_ky4/Lap_Trinh_Di_Dong/Lession2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -190,6 +185,7 @@
       <workItem from="1641972245011" duration="6050000" />
       <workItem from="1642158316017" duration="3519000" />
       <workItem from="1642209093477" duration="15000" />
+      <workItem from="1642264389124" duration="887000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
