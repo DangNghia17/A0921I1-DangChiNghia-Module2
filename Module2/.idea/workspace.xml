@@ -20,27 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Colorable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Colorable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Resizeable/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Resizeable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Edible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/AbstractAndInterfaceTests/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/CircleComparator/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/CircleComparator/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/Comparable/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/thuc_hanh/Comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_list/bai_tap/none.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_list/thuc_hanh/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_list/thuc_hanh/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_dsa_list/thuc_hanh/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/Queue/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/Queue/MyLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/Stack/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_stack_queue/thuc_hanh/Stack/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_and_refactoring/bai_tap/Refactoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_and_refactoring/thuc_hanh/Refactoring1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_and_refactoring/thuc_hanh/Refactoring1/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_and_refactoring/thuc_hanh/Refactoring2/none.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_and_refactoring/thuc_hanh/Refactoring3/none.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Colorable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_and_interface/bai_tap/Colorable/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +202,9 @@
       <workItem from="1642158316017" duration="3519000" />
       <workItem from="1642209093477" duration="15000" />
       <workItem from="1642264389124" duration="887000" />
-      <workItem from="1642416805831" duration="3425000" />
+      <workItem from="1642416805831" duration="3771000" />
+      <workItem from="1642589273854" duration="5479000" />
+      <workItem from="1642763656764" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -259,6 +257,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1641382062176" />
+    <state x="579" y="305" width="542" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1642590516972">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="579" y="305" width="542" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1642590516972" />
     <state x="581" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642417450258">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

@@ -7,4 +7,3 @@ public class Square implements Colorable {
         System.out.println("The color of Square is " + color);
     }
 }
-
