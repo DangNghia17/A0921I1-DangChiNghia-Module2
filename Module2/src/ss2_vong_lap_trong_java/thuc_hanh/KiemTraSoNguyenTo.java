@@ -12,16 +12,16 @@ public class KiemTraSoNguyenTo {
             System.out.println(num + " không phải là số nguyên tố !");
         } else {
             int i = 2;
-            boolean check = true;
+            boolean isPrime = true;
 
             while (i <= Math.sqrt(num)) {
                 if (num % i == 0) {
-                    check = false;
+                    isPrime = false;
                     break;
                 }
                 i++;
             }
-            if (check)
+            if (isPrime)
                 System.out.println(num + " là số nguyên tố!!");
             else
                 System.out.println(num + " là số nguyên tố !!");
