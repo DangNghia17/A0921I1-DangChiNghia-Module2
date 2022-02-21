@@ -8,7 +8,7 @@ class UngDungDocSoThanhChu {
         System.out.println("Nhập vào số nguyên bạn muốn chuyển đổi ");
         System.out.println("*Nhỏ hơn 20 :");
         int num = sc.nextInt();
-
+//
         switch (num) {
             case 1:
                 System.out.println("one");

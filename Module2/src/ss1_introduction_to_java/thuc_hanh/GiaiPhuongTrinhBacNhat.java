@@ -1,7 +1,7 @@
 package ss1_introduction_to_java.thuc_hanh;
 
 import java.util.Scanner;
-
+ //
 class GiaiPhuongTrinhBacNhat {
 
     public static void main(String[] args) {
