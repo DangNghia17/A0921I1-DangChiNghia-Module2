@@ -8,7 +8,7 @@ public class KiemTraSoNguyenTo {
         System.out.println("Nhập vào một số nguyên để kiểm tra");
         int num = sc.nextInt();
 
-        if (num < 2){
+        if (num < 2) {
             System.out.println(num + " không phải là số nguyên tố !");
         } else {
             int i = 2;
@@ -24,7 +24,8 @@ public class KiemTraSoNguyenTo {
             if (isPrime)
                 System.out.println(num + " là số nguyên tố!!");
             else
-                System.out.println(num + " là số nguyên tố !!");
+                System.out.println(num + " không phải là số nguyên tố !!");
 
-    }}
+        }
+    }
 }

@@ -6,14 +6,14 @@ public class HienThi20SoNguyenToDauTien {
         int count = 0;
         int m = 2;
         while (true) {
-            int mark = 1;
-            for(int i = 2; i <= Math.sqrt(m); i++){
+            int mark = 0;
+            for (int i = 2; i <= Math.sqrt(m); i++) {
                 if (m % i == 0) {
                     mark = 0;
                     break;
                 }
             }
-            if(mark == 1){
+            if (mark == 1) {
                 count++;
                 System.out.print(m + ", ");
             }
