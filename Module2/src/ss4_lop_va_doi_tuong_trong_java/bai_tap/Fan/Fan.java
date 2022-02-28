@@ -13,10 +13,7 @@ public class Fan {
     public Fan() {
     }
 
-    public Fan(String SLOW, String MEDIUM, String FAST, String speed, boolean on, double radius, String color) {
-        this.SLOW = SLOW;
-        this.MEDIUM = MEDIUM;
-        this.FAST = FAST;
+    public Fan(String speed, boolean on, double radius, String color) {
         this.speed = speed;
         this.on = on;
         this.radius = radius;
