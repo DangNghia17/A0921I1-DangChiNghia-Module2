@@ -20,12 +20,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Triagle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungChuyenDoiTienTe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungChuyenDoiTienTe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungDocSoThanhChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Bai_Tap/UngDungDocSoThanhChu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhChiSoCanNangCoThe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss1_Introduction_to_Java/Thuc_Hanh/TinhChiSoCanNangCoThe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss2_Vong_lap_trong_Java/Bai_Tap/HienThi20SoNguyenToDauTien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss2_Vong_lap_trong_Java/Bai_Tap/HienThi20SoNguyenToDauTien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss2_Vong_lap_trong_Java/Thuc_Hanh/KiemTraSoNguyenTo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss2_Vong_lap_trong_Java/Thuc_Hanh/KiemTraSoNguyenTo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/GopMang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/GopMang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/ThemPhanTuVaoMang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/ThemPhanTuVaoMang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/XoaPhanTuKhoiMang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Bai_Tap/XoaPhanTuKhoiMang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/ChuongTrinhChuyenDoiNhietDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/ChuongTrinhChuyenDoiNhietDo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/DaoNguocCacPhanTuCuaMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriNhoNhatTrongMangSuDungPhuongThuc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriTrongMang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/TimGiaTriTrongMang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss3_Mang_va_phuong_thuc_trong_Java/Thuc_Hanh/UngDungSoLuongSinhVienThiDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/FanExcercise/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/StopWatch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/StopWatch/XayDungLopStopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Bai_Tap/XayDungLopQuadraticEquation/XayDungLopQuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Thuc_Hanh/LopHinhChuNhat/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss4_Lop_va_doi_tuong_trong_Java/Thuc_Hanh/LopHinhChuNhat/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Bai_Tap/AccessModifier/TestCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Bai_Tap/XayDungLopChiGhiTrongJava/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticMethod/TestStaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/TestStaticProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/ss5_Access_modifier_static_method_static_property/Thuc_Hanh/StaticProperty/TestStaticProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/CircleAndCylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/CircleAndCylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/CircleAndCylinder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/DesignAndImplementTriangle/Triagle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/Point2DAndPoint3D/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/PointAndMoveablePoint/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/PointAndMoveablePoint/MoveablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/bai_tap/PointAndMoveablePoint/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/ss6_ke_thua/thuc_hanh/SquareTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +96,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,6 +119,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -83,13 +132,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.Point2DAndPoint3D.Main" />
+  <component name="RunManager" selected="Application.UngDungDemSoSinhVienThiDo">
+    <configuration name="GopMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.GopMang" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.bai_tap.Point2DAndPoint3D.*" />
+          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.PointAndMoveablePoint.Main" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.MyClass" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.bai_tap.PointAndMoveablePoint.*" />
+          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.DesignAndImplementTriangle.Main" />
+    <configuration name="RunningStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier_static_method_static_property.bai_tap.OnlyWriteClass.RunningStudent" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.bai_tap.DesignAndImplementTriangle.*" />
+          <option name="PATTERN" value="ss5_access_modifier_static_method_static_property.bai_tap.OnlyWriteClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.bai_tap.CircleAndCylinder.Main" />
+    <configuration name="UngDungDemSoSinhVienThiDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_lop_va_doi_tuong_trong_java.thuc_hanh.UngDungDemSoSinhVienThiDo.UngDungDemSoSinhVienThiDo" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.bai_tap.CircleAndCylinder.*" />
+          <option name="PATTERN" value="ss4_lop_va_doi_tuong_trong_java.thuc_hanh.UngDungDemSoSinhVienThiDo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.thuc_hanh.ShapeTest" />
+    <configuration name="XoaPhanTuKhoiMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.XoaPhanTuKhoiMang" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua.thuc_hanh.*" />
+          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.UngDungDemSoSinhVienThiDo" />
+        <item itemvalue="Application.GopMang" />
+        <item itemvalue="Application.XoaPhanTuKhoiMang" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.RunningStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +235,25 @@
       <workItem from="1641861387625" duration="619000" />
       <workItem from="1641905323725" duration="776000" />
       <workItem from="1641972245011" duration="6050000" />
-      <workItem from="1642158316017" duration="2815000" />
+      <workItem from="1642158316017" duration="3519000" />
+      <workItem from="1642209093477" duration="15000" />
+      <workItem from="1642264389124" duration="887000" />
+      <workItem from="1642416805831" duration="3771000" />
+      <workItem from="1642589273854" duration="5479000" />
+      <workItem from="1642763656764" duration="1104000" />
+      <workItem from="1642848355316" duration="595000" />
+      <workItem from="1645446882297" duration="486000" />
+      <workItem from="1645447439130" duration="11000" />
+      <workItem from="1645447480544" duration="5132000" />
+      <workItem from="1645619882969" duration="5775000" />
+      <workItem from="1645697358241" duration="1255000" />
+      <workItem from="1645770623277" duration="1758000" />
+      <workItem from="1645793132651" duration="5557000" />
+      <workItem from="1646035726066" duration="3948000" />
+      <workItem from="1646051986311" duration="4651000" />
+      <workItem from="1646133820826" duration="2533000" />
+      <workItem from="1646189095158" duration="81000" />
+      <workItem from="1646218740721" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -230,42 +297,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639076688906" />
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1642166333584">
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1646054298291">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1642166333584" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1646054298291" />
     <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1641382062176">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1641382062176" />
+    <state x="579" y="305" width="542" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1642590516972">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="579" y="305" width="542" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1642590516972" />
+    <state x="581" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1642417450258">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="581" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1642417450258" />
     <state x="393" y="16" key="CommitChangelistDialog2" timestamp="1639077622967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1639077622967" />
-    <state x="549" y="78" key="FileChooserDialogImpl" timestamp="1641864793864">
+    <state x="549" y="78" key="FileChooserDialogImpl" timestamp="1646189173530">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641864793864" />
-    <state width="1258" height="195" key="GridCell.Tab.0.bottom" timestamp="1641989015550">
+    <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646189173530" />
+    <state width="1390" height="163" key="GridCell.Tab.0.bottom" timestamp="1646136438469">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1258" height="195" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
+    <state width="1390" height="163" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646136438469" />
     <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1258" height="195" key="GridCell.Tab.0.center" timestamp="1641989015550">
+    <state width="1390" height="163" key="GridCell.Tab.0.center" timestamp="1646136438469">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1258" height="195" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
+    <state width="1390" height="163" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646136438469" />
     <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1258" height="195" key="GridCell.Tab.0.left" timestamp="1641989015550">
+    <state width="1390" height="163" key="GridCell.Tab.0.left" timestamp="1646136438469">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1258" height="195" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
+    <state width="1390" height="163" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646136438469" />
     <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
-    <state width="1258" height="195" key="GridCell.Tab.0.right" timestamp="1641989015550">
+    <state width="1390" height="163" key="GridCell.Tab.0.right" timestamp="1646136438469">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1258" height="195" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1641989015550" />
+    <state width="1390" height="163" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646136438469" />
     <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
     <state x="269" y="86" key="SettingsEditor" timestamp="1641986191780">
       <screen x="0" y="0" width="1536" height="816" />
@@ -277,14 +352,19 @@
     </state>
     <state x="457" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1641780073503" />
     <state x="457" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639741544091" />
-    <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639077563472">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1639077563472" />
-    <state x="209" y="48" key="new project wizard" timestamp="1641816277902">
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646039004233">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="209" y="48" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1641816277902" />
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1646039004233" />
+    <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1639077563472" />
+    <state x="571" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1642418496658">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="571" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.816@0.0.1536.816" timestamp="1642418496658" />
+    <state x="209" y="48" key="new project wizard" timestamp="1646189175718">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="209" y="48" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1646189175718" />
     <state x="422" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1639374703231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
