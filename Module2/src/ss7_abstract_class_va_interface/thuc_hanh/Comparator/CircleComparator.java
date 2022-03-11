@@ -10,5 +10,5 @@ public class CircleComparator implements Comparator<Circle> {
         else if (c1.getRadius() < c2.getRadius()) return -1;
         else return 0;
     }
+    
 }
-

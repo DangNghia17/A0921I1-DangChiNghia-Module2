@@ -26,22 +26,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/DesignAndImplementTriangle/Running.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/DesignAndImplementTriangle/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/DesignAndImplementTriangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Edible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/RunningAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/AnimalAndInterfaceEdible/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_list/thuc_hanh/ImplementListClass/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss10_list/thuc_hanh/ImplementListClass/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/bai_tap/Refactoring/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring1/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring1/CalculateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring2/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring2/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring3/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss8_clean_code_va_refactoring/thuc_hanh/Refactoring3/CylinderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/PointAndMoveablePoint/MoveablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/PointAndMoveablePoint/MoveablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/PointAndMoveablePoint/Running.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss6_ke_thua_trong_java/bai_tap/PointAndMoveablePoint/Running.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/Comparator/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss7_abstract_class_va_interface/thuc_hanh/Comparator/CircleComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +97,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.RunningComparable">
+  <component name="RunManager" selected="Application.MyListTest">
+    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_va_interface.thuc_hanh.Comparator.CircleComparatorTest" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss7_abstract_class_va_interface.thuc_hanh.Comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thuc_hanh.lab2.Main" />
+      <option name="MAIN_CLASS_NAME" value="GUI.Main" />
       <module name="Java_nang_cao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thuc_hanh.lab2.*" />
+          <option name="PATTERN" value="GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Running (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua_trong_java.bai_tap.Point2DAndPoint3D.Running" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss10_list.thuc_hanh.ImplementListClass.MyListTest" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua_trong_java.bai_tap.Point2DAndPoint3D.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Running (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua_trong_java.bai_tap.DesignAndImplementTriangle.Running" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss6_ke_thua_trong_java.bai_tap.DesignAndImplementTriangle.*" />
+          <option name="PATTERN" value="ss10_list.thuc_hanh.ImplementListClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +138,11 @@
       </method>
     </configuration>
     <configuration name="Running" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua_trong_java.bai_tap.CircleAndCylinder.Running" />
+      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_va_interface.bai_tap.Colorable.Running" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss6_ke_thua_trong_java.bai_tap.CircleAndCylinder.*" />
+          <option name="PATTERN" value="ss7_abstract_class_va_interface.bai_tap.Colorable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_va_interface.thuc_hanh.Comparable.RunningComparable" />
+    <configuration name="RunningResizeable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss7_abstract_class_va_interface.bai_tap.Resizeable.RunningResizeable" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss7_abstract_class_va_interface.thuc_hanh.Comparable.*" />
+          <option name="PATTERN" value="ss7_abstract_class_va_interface.bai_tap.Resizeable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunningComparable" />
-        <item itemvalue="Application.Running (2)" />
+        <item itemvalue="Application.MyListTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Running (1)" />
         <item itemvalue="Application.Running" />
+        <item itemvalue="Application.RunningResizeable" />
+        <item itemvalue="Application.CircleComparatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +224,10 @@
       <workItem from="1646462882626" duration="4970000" />
       <workItem from="1646553479287" duration="1191000" />
       <workItem from="1646639927947" duration="2908000" />
-      <workItem from="1646657329662" duration="647000" />
+      <workItem from="1646657329662" duration="4135000" />
+      <workItem from="1646797029979" duration="653000" />
+      <workItem from="1646814504418" duration="1898000" />
+      <workItem from="1647002882148" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -251,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646228632691</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20g53 07.03">
+      <created>1646661374566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646661374566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +279,8 @@
     <MESSAGE value="test git" />
     <MESSAGE value="19g57 02/03" />
     <MESSAGE value="20g43 02/03" />
-    <option name="LAST_COMMIT_MESSAGE" value="20g43 02/03" />
+    <MESSAGE value="20g53 07.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="20g53 07.03" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="273" width="434" height="273" key="#Notifications" timestamp="1646462913298">
@@ -288,10 +295,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639076688906" />
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1646657974763">
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1646660903313">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1646657974763" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1646660903313" />
     <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1646657389972">
       <screen x="0" y="0" width="1536" height="816" />
@@ -313,25 +320,25 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646226263395" />
-    <state width="1390" height="190" key="GridCell.Tab.0.bottom" timestamp="1646646284469">
+    <state width="1390" height="190" key="GridCell.Tab.0.bottom" timestamp="1646816664939">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1390" height="190" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646646284469" />
+    <state width="1390" height="190" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1646816664939" />
     <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1390" height="190" key="GridCell.Tab.0.center" timestamp="1646646284469">
+    <state width="1390" height="190" key="GridCell.Tab.0.center" timestamp="1646816664939">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1390" height="190" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646646284469" />
+    <state width="1390" height="190" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1646816664939" />
     <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1390" height="190" key="GridCell.Tab.0.left" timestamp="1646646284469">
+    <state width="1390" height="190" key="GridCell.Tab.0.left" timestamp="1646816664939">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1390" height="190" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646646284469" />
+    <state width="1390" height="190" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1646816664939" />
     <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
-    <state width="1390" height="190" key="GridCell.Tab.0.right" timestamp="1646646284469">
+    <state width="1390" height="190" key="GridCell.Tab.0.right" timestamp="1646816664939">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1390" height="190" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646646284469" />
+    <state width="1390" height="190" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1646816664939" />
     <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
     <state x="459" y="113" key="NewModule_or_Project.wizard" timestamp="1646226292229">
       <screen x="0" y="0" width="1536" height="816" />
@@ -364,10 +371,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="623" y="174" key="refactoring.ChangeSignatureDialog/0.0.1536.816@0.0.1536.816" timestamp="1646464346355" />
-    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1646639992678">
+    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1646660257280">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1646639992678" />
+    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1646660257280" />
     <state x="422" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1639374703231" />
     <state x="601" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1639369747634">
       <screen x="0" y="0" width="1536" height="824" />
