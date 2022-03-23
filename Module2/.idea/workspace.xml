@@ -26,16 +26,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/InvertElement/InvertElementNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/InvertElement/InvertElementString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/QueueLinkedList/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/QueueLinkedList/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/QueueLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/StackLinkedList/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/thuc_hanh/StackLinkedList/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/map/DemoHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/search/BinarySearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/CountTheWord/CountTheWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/PracticeJavaCollectionFramework/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/PracticeJavaCollectionFramework/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/ComparableAndComparator/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/ComparableAndComparator/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/ComparableAndComparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/HashMapAndHashSet/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/HashMapAndHashSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/thuc_hanh/HashMapLinkedHashMapTreeMap/TestMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FuramaResort/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FuramaResort/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/InvertElement/InvertElementString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_stack_queue/bai_tap/InvertElement/InvertElementString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,13 +102,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.InvertElementString">
-    <configuration name="FuramaController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FuramaResort.controllers.FuramaController" />
+  <component name="RunManager" selected="Application.ProductManager">
+    <configuration name="CountTheWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.CountTheWord.CountTheWord" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FuramaResort.controllers.*" />
+          <option name="PATTERN" value="ss11_stack_queue.bai_tap.CountTheWord.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertElementNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.InvertElement.InvertElementNumber" />
+    <configuration name="ProductManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.PracticeJavaCollectionFramework.ProductManager" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.bai_tap.InvertElement.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.PracticeJavaCollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertElementString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.bai_tap.InvertElement.InvertElementString" />
+    <configuration name="Running (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.ComparableAndComparator.Running" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.bai_tap.InvertElement.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.ComparableAndComparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.thuc_hanh.QueueLinkedList.LinkedListQueueClient" />
+    <configuration name="Running" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.HashMapAndHashSet.Running" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.thuc_hanh.QueueLinkedList.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.HashMapAndHashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_stack_queue.thuc_hanh.StackLinkedList.StackClient" />
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.HashMapLinkedHashMapTreeMap.TestMap" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_stack_queue.thuc_hanh.StackLinkedList.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.HashMapLinkedHashMapTreeMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InvertElementString" />
-        <item itemvalue="Application.InvertElementNumber" />
-        <item itemvalue="Application.LinkedListQueueClient" />
-        <item itemvalue="Application.StackClient" />
-        <item itemvalue="Application.FuramaController" />
+        <item itemvalue="Application.ProductManager" />
+        <item itemvalue="Application.Running (1)" />
+        <item itemvalue="Application.Running" />
+        <item itemvalue="Application.TestMap" />
+        <item itemvalue="Application.CountTheWord" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +236,12 @@
       <workItem from="1647255277213" duration="5157000" />
       <workItem from="1647399901059" duration="6611000" />
       <workItem from="1647428259956" duration="6253000" />
-      <workItem from="1647607413205" duration="4603000" />
+      <workItem from="1647607413205" duration="4834000" />
+      <workItem from="1647866031988" duration="6537000" />
+      <workItem from="1648022298527" duration="1701000" />
+      <workItem from="1648039350564" duration="2714000" />
+      <workItem from="1648044397309" duration="623000" />
+      <workItem from="1648056832266" duration="5780000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -274,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647008371180</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="21g04 18.03">
+      <created>1647612269932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647612269932</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,25 +318,18 @@
     <MESSAGE value="20g53 07.03" />
     <MESSAGE value="20g33 11.03" />
     <MESSAGE value="21g19 11.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="21g19 11.03" />
+    <MESSAGE value="21g04 18.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="21g04 18.03" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="273" width="434" height="273" key="#Notifications" timestamp="1646462913298">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="676" y="273" width="434" height="273" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1646462913298" />
-    <state x="361" y="94" key="#Project_Structure" timestamp="1639076053898">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="94" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1639076053898" />
-    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639076688906">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1639076688906" />
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1647609279690">
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1648041123054">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1647609279690" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1648041123054" />
     <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1647005521525">
       <screen x="0" y="0" width="1536" height="816" />
@@ -332,33 +343,29 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="581" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1642417450258" />
-    <state x="393" y="16" key="CommitChangelistDialog2" timestamp="1639077622967">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="393" y="16" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1639077622967" />
     <state x="549" y="78" key="FileChooserDialogImpl" timestamp="1646226263395">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646226263395" />
-    <state width="1312" height="245" key="GridCell.Tab.0.bottom" timestamp="1647611626213">
+    <state width="1356" height="173" key="GridCell.Tab.0.bottom" timestamp="1648066547303">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1312" height="245" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1647611626213" />
+    <state width="1356" height="173" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1648066547303" />
     <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1312" height="245" key="GridCell.Tab.0.center" timestamp="1647611626213">
+    <state width="1356" height="173" key="GridCell.Tab.0.center" timestamp="1648066547302">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1312" height="245" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1647611626213" />
+    <state width="1356" height="173" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1648066547302" />
     <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1312" height="245" key="GridCell.Tab.0.left" timestamp="1647611626213">
+    <state width="1356" height="173" key="GridCell.Tab.0.left" timestamp="1648066547302">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1312" height="245" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1647611626213" />
+    <state width="1356" height="173" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1648066547302" />
     <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
-    <state width="1312" height="245" key="GridCell.Tab.0.right" timestamp="1647611626213">
+    <state width="1356" height="173" key="GridCell.Tab.0.right" timestamp="1648066547302">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1312" height="245" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1647611626213" />
+    <state width="1356" height="173" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1648066547302" />
     <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
     <state x="459" y="113" key="NewModule_or_Project.wizard" timestamp="1646226292229">
       <screen x="0" y="0" width="1536" height="816" />
@@ -372,7 +379,6 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="269" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1646226294467" />
-    <state x="269" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1639122987977" />
     <state x="457" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1641780073503">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -382,7 +388,6 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1646039004233" />
-    <state x="578" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1639077563472" />
     <state x="571" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1642418496658">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -395,18 +400,13 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="623" y="174" key="refactoring.ChangeSignatureDialog/0.0.1536.816@0.0.1536.816" timestamp="1646464346355" />
-    <state x="246" y="193" key="run.anything.popup" timestamp="1647440328722">
+    <state x="246" y="193" key="run.anything.popup" timestamp="1648061830706">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="246" y="193" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1647440328722" />
-    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1646660257280">
+    <state x="246" y="193" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1648061830706" />
+    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1647867658857">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1646660257280" />
-    <state x="422" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1639374703231" />
-    <state x="601" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1639369747634">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="601" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1639369747634" />
+    <state x="422" y="144" width="672" height="672" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1647867658857" />
   </component>
 </project>

@@ -1,18 +1,18 @@
 package FuramaResort.models;
 
 public class Customer extends Person {
-    private String CustomerType;
+    private String customerType;
     private String address;
 
     public Customer() {
     }
 
     public String getCustomerType() {
-        return CustomerType;
+        return customerType;
     }
 
     public void setCustomerType(String customerType) {
-        CustomerType = customerType;
+        customerType = customerType;
     }
 
     public String getAddress() {

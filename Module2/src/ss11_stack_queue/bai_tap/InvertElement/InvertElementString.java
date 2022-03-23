@@ -16,11 +16,11 @@ public class InvertElementString {
             stack1.push(w);
         }
         System.out.println("");
-        System.out.println("Chuỗi đảo ngược thành : ");
+        System.out.print("Chuỗi đảo ngược thành : ");
         while (!stack1.isEmpty()) {
-            String ch = stack1.peek();
+            String ch = stack1.pop();
+            System.out.print(ch + " ");
         }
-
 
     }
 }
