@@ -26,9 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06bee8c1-dc3e-449c-90fc-98d78efa1b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss14_sort_algortithm/thuc_hanh/SetupBubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/exception/BirthdayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/exception/DebugDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/exception/DemoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo_session/exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_debug_exception/thuc_hanh/DebugJavaApp/LinearEquationResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +94,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algortithm.thuc_hanh.SetupBubbleSort.BubbleSort" />
+  <component name="RunManager" selected="Application.LinearEquationResolver">
+    <configuration name="BubbleSortByStep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss14_sort_algortithm.thuc_hanh.ExampleBubbleSort.BubbleSortByStep" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algortithm.thuc_hanh.SetupBubbleSort.*" />
+          <option name="PATTERN" value="ss14_sort_algortithm.thuc_hanh.ExampleBubbleSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.PracticeJavaCollectionFramework.ProductManager" />
-      <module name="Module2" />
+    <configuration name="FirstSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInputStream.FirstSwing" />
+      <module name="Java_nang_cao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.PracticeJavaCollectionFramework.*" />
+          <option name="PATTERN" value="FileInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Running (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.ComparableAndComparator.Running" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss14_sort_algortithm.bai_tap.SetupInsertionSort.InsertionSort" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.ComparableAndComparator.*" />
+          <option name="PATTERN" value="ss14_sort_algortithm.bai_tap.SetupInsertionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Running" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.HashMapAndHashSet.Running" />
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_debug_exception.thuc_hanh.DebugJavaApp.LinearEquationResolver" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.HashMapAndHashSet.*" />
+          <option name="PATTERN" value="ss15_debug_exception.thuc_hanh.DebugJavaApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.thuc_hanh.HashMapLinkedHashMapTreeMap.TestMap" />
-      <module name="Module2" />
+    <configuration name="fisIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInputStream.fisIO" />
+      <module name="Java_nang_cao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss12_java_collection_framework.thuc_hanh.HashMapLinkedHashMapTreeMap.*" />
+          <option name="PATTERN" value="FileInputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.ProductManager" />
-        <item itemvalue="Application.Running (1)" />
-        <item itemvalue="Application.Running" />
-        <item itemvalue="Application.TestMap" />
+        <item itemvalue="Application.LinearEquationResolver" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.FirstSwing" />
+        <item itemvalue="Application.fisIO" />
+        <item itemvalue="Application.BubbleSortByStep" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +235,10 @@
       <workItem from="1648044397309" duration="623000" />
       <workItem from="1648056832266" duration="6162000" />
       <workItem from="1648115051838" duration="1192000" />
-      <workItem from="1648210339629" duration="1633000" />
+      <workItem from="1648210339629" duration="4210000" />
+      <workItem from="1648285041437" duration="2595000" />
+      <workItem from="1648387196018" duration="7659000" />
+      <workItem from="1648471272324" duration="540000" />
     </task>
     <task id="LOCAL-00001" summary="test git">
       <created>1639077623584</created>
@@ -323,11 +331,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="676" y="273" width="434" height="273" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1646462913298" />
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1648041123054">
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1648402180038">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1648041123054" />
-    <state x="536" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1639743115294" />
+    <state x="536" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1648402180038" />
+    <state x="466" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1648387735781">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="466" y="194" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1648387735781" />
     <state x="428" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1647005521525">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -340,30 +351,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="581" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1642417450258" />
+    <state x="519" y="183" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1648387736967">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="519" y="183" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1536.816@0.0.1536.816" timestamp="1648387736967" />
     <state x="549" y="78" key="FileChooserDialogImpl" timestamp="1646226263395">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="78" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1646226263395" />
-    <state width="1356" height="173" key="GridCell.Tab.0.bottom" timestamp="1648067359914">
+    <state width="1358" height="189" key="GridCell.Tab.0.bottom" timestamp="1648406735334">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1356" height="173" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1648067359914" />
-    <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1356" height="173" key="GridCell.Tab.0.center" timestamp="1648067359913">
+    <state width="1358" height="189" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1648406735334" />
+    <state width="1358" height="189" key="GridCell.Tab.0.center" timestamp="1648406735331">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1356" height="173" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1648067359913" />
-    <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
-    <state width="1356" height="173" key="GridCell.Tab.0.left" timestamp="1648067359913">
+    <state width="1358" height="189" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1648406735331" />
+    <state width="1358" height="189" key="GridCell.Tab.0.left" timestamp="1648406735330">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1356" height="173" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1648067359913" />
-    <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1639747077922" />
-    <state width="1356" height="173" key="GridCell.Tab.0.right" timestamp="1648067359913">
+    <state width="1358" height="189" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1648406735330" />
+    <state width="1358" height="189" key="GridCell.Tab.0.right" timestamp="1648406735332">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1356" height="173" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1648067359913" />
-    <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1639747077923" />
+    <state width="1358" height="189" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1648406735332" />
     <state x="459" y="113" key="NewModule_or_Project.wizard" timestamp="1646226292229">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -380,7 +391,6 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="457" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1641780073503" />
-    <state x="457" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639741544091" />
     <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646039004233">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -397,10 +407,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="623" y="174" key="refactoring.ChangeSignatureDialog/0.0.1536.816@0.0.1536.816" timestamp="1646464346355" />
-    <state x="246" y="193" key="run.anything.popup" timestamp="1648061830706">
+    <state x="246" y="193" key="run.anything.popup" timestamp="1648387272562">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="246" y="193" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1648061830706" />
+    <state x="246" y="193" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1648387272562" />
     <state x="422" y="144" width="672" height="672" key="search.everywhere.popup" timestamp="1647867658857">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
