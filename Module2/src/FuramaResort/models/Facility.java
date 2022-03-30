@@ -1,52 +1,82 @@
 package FuramaResort.models;
 
 public abstract class Facility {
-    private String ServiceName;
-    private double UsableArea;
-    private double RentalCost;
-    private double MaximumNumberOfPeople;
-    private String RentalType;
+    private String idFacility;
+    private String serviceName;
+    private double usableArea;
+    private double rentalCost;
+    private double maximumNumberOfPeople;
+    private String rentalType;
 
     public Facility() {
     }
 
-    public double getUsableArea() {
-        return UsableArea;
+    public Facility(String idFacility, String serviceName, double usableArea, double rentalCost, double maximumNumberOfPeople, String rentalType) {
+        this.idFacility = idFacility;
+        this.serviceName = serviceName;
+        this.usableArea = usableArea;
+        this.rentalCost = rentalCost;
+        this.maximumNumberOfPeople = maximumNumberOfPeople;
+        this.rentalType = rentalType;
     }
 
-    public void setUsableArea(double usableArea) {
-        UsableArea = usableArea;
+    public String getIdFacility() {
+        return idFacility;
     }
 
-    public double getRentalCost() {
-        return RentalCost;
-    }
-
-    public void setRentalCost(double rentalCost) {
-        RentalCost = rentalCost;
-    }
-
-    public double getMaximumNumberOfPeople() {
-        return MaximumNumberOfPeople;
-    }
-
-    public void setMaximumNumberOfPeople(double maximumNumberOfPeople) {
-        MaximumNumberOfPeople = maximumNumberOfPeople;
-    }
-
-    public String getRentalType() {
-        return RentalType;
-    }
-
-    public void setRentalType(String rentalType) {
-        RentalType = rentalType;
+    public void setIdFacility(String idFacility) {
+        this.idFacility = idFacility;
     }
 
     public String getServiceName() {
-        return ServiceName;
+        return serviceName;
     }
 
     public void setServiceName(String serviceName) {
-        ServiceName = serviceName;
+        this.serviceName = serviceName;
+    }
+
+    public double getUsableArea() {
+        return usableArea;
+    }
+
+    public void setUsableArea(double usableArea) {
+        this.usableArea = usableArea;
+    }
+
+    public double getRentalCost() {
+        return rentalCost;
+    }
+
+    public void setRentalCost(double rentalCost) {
+        this.rentalCost = rentalCost;
+    }
+
+    public double getMaximumNumberOfPeople() {
+        return maximumNumberOfPeople;
+    }
+
+    public void setMaximumNumberOfPeople(double maximumNumberOfPeople) {
+        this.maximumNumberOfPeople = maximumNumberOfPeople;
+    }
+
+    public String getRentalType() {
+        return rentalType;
+    }
+
+    public void setRentalType(String rentalType) {
+        this.rentalType = rentalType;
+    }
+
+    @Override
+    public String toString() {
+        return "Facility{" +
+                "idFacility='" + idFacility + '\'' +
+                ", serviceName='" + serviceName + '\'' +
+                ", usableArea=" + usableArea +
+                ", rentalCost=" + rentalCost +
+                ", maximumNumberOfPeople=" + maximumNumberOfPeople +
+                ", rentalType='" + rentalType + '\'' +
+                '}';
     }
 }

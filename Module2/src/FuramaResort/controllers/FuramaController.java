@@ -1,5 +1,10 @@
 package FuramaResort.controllers;
 
+import FuramaResort.services.EmployeeService;
+import FuramaResort.services.Impl.CustomerServiceImpl;
+import FuramaResort.services.Impl.EmployeeServiceImpl;
+import FuramaResort.services.Impl.FacilityServiceImpl;
+
 import java.util.Scanner;
 
 public class FuramaController {
@@ -45,12 +50,14 @@ public class FuramaController {
                 case 6:
                     System.exit(6);
                 default:
+                    System.out.println("Nhập vào không hợp lệ, vui lòng chạy lại");
                     check = false;
             }
         }
     }
 
     public static void displayEmployeeManagement() {
+        EmployeeServiceImpl employeeService = new EmployeeServiceImpl();
         boolean check = true;
         while (check) {
             System.out.println(
@@ -62,12 +69,27 @@ public class FuramaController {
             int chooseMenu = sc1.nextInt();
             switch (chooseMenu) {
                 case 1:
+                    employeeService.display();
+                    break;
+                case 2:
+                    employeeService.addNew();
+                    break;
+                case 3:
+                    employeeService.edit();
+                    break;
+                case 4:
+                    displayMainMenu();
+                    break;
+                default:
+                    System.out.println("Nhập vào không hợp lệ, vui lòng chạy lại");
+                    check = false;
             }
 
         }
     }
 
     public static void displayCustomerManagement() {
+        CustomerServiceImpl customerService = new CustomerServiceImpl();
         boolean check = true;
         while (check) {
             System.out.println(
@@ -75,12 +97,31 @@ public class FuramaController {
                             "2.Add new customer\n" +
                             "3.Edit customer\n" +
                             "4.Return main menu\n");
-            break;
+            Scanner sc1 = new Scanner(System.in);
+            int chooseMenu = sc1.nextInt();
+            switch (chooseMenu) {
+                case 1:
+                    customerService.display();
+                    break;
+                case 2:
+                    customerService.addNew();
+                    break;
+                case 3:
+                    customerService.edit();
+                    break;
+                case 4:
+                    displayMainMenu();
+                    break;
+                default:
+                    System.out.println("Nhập vào không hợp lệ, vui lòng chạy lại");
+                    check = false;
+            }
 
         }
     }
 
     public static void displayFacilityManagement() {
+        FacilityServiceImpl facilityService = new FacilityServiceImpl();
         boolean check = true;
         while (check) {
             System.out.println("" +
@@ -88,7 +129,59 @@ public class FuramaController {
                     "2.Add new facility\n" +
                     "3.Display list facility maintenance\n" +
                     "4.Return main menu\n");
-            break;
+            Scanner sc1 = new Scanner(System.in);
+            int chooseMenu = sc1.nextInt();
+            switch (chooseMenu) {
+                case 1:
+                    facilityService.display();
+                    break;
+                case 2:
+                    addNewFacilityManagement();
+                    break;
+                case 3:
+                    facilityService.displayMaintain();
+                    break;
+                case 4:
+                    displayMainMenu();
+                    break;
+                default:
+                    System.out.println("Nhập vào không hợp lệ, đã tự động return");
+                    check = false;
+            }
+        }
+
+    }
+    public static void addNewFacilityManagement() {
+        FacilityServiceImpl facilityService = new FacilityServiceImpl();
+        boolean check = true;
+        while (check) {
+            System.out.println("" +
+                    "1.Add new Villa\n" +
+                    "2.Add new House\n" +
+                    "3.Add new Room\n" +
+                    "4.Return main menu\n");
+            Scanner sc1 = new Scanner(System.in);
+            int chooseMenu = sc1.nextInt();
+            switch (chooseMenu) {
+                case 1:
+                    facilityService.addNewVilla();
+                    displayFacilityManagement();
+                    break;
+                case 2:
+                    facilityService.addNewHouse();
+                    displayFacilityManagement();
+                    break;
+                case 3:
+                    facilityService.addNewRoom();
+                    displayFacilityManagement();
+                    break;
+                case 4:
+                    displayFacilityManagement();
+                    break;
+                default:
+                    System.out.println("Nhập vào không hợp lệ, đã tự động return");
+                    check = false;
+            }
         }
 
     }

@@ -8,6 +8,19 @@ public class Villa extends Facility{
     public Villa() {
     }
 
+    public Villa(String roomStandard, double poolArea, double numberOfFloors) {
+        RoomStandard = roomStandard;
+        PoolArea = poolArea;
+        NumberOfFloors = numberOfFloors;
+    }
+
+    public Villa(String idFacility, String serviceName, double usableArea, double rentalCost, double maximumNumberOfPeople, String rentalType, String roomStandard, double poolArea, double numberOfFloors) {
+        super(idFacility, serviceName, usableArea, rentalCost, maximumNumberOfPeople, rentalType);
+        RoomStandard = roomStandard;
+        PoolArea = poolArea;
+        NumberOfFloors = numberOfFloors;
+    }
+
     public String getRoomStandard() {
         return RoomStandard;
     }
@@ -30,5 +43,14 @@ public class Villa extends Facility{
 
     public void setNumberOfFloors(double numberOfFloors) {
         NumberOfFloors = numberOfFloors;
+    }
+
+    @Override
+    public String toString() {
+        return "Villa{" + super.toString() +
+                "RoomStandard='" + RoomStandard + '\'' +
+                ", PoolArea=" + PoolArea +
+                ", NumberOfFloors=" + NumberOfFloors +
+                '}';
     }
 }
