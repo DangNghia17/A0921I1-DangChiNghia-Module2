@@ -1,0 +1,7 @@
+Dữ liệu trong file là: 
+[Student{id='STU001', name='Hoai An', age=18}
+, Student{id='STU002', name='Thang', age=19}
+, Student{id='STU003', name='Hieu', age=20}
+, Student{id='STU004', name='Hung', age=18}
+, Student{id='STU005', name='Nam', age=20}
+]
